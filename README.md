@@ -3,17 +3,17 @@
 This repo contains the assignments and hackerrank problems for golang.
 
 
-DAY 1: Hello World
-DAY 2: Variables and Constants
-Day 3: Control Structures
-Day 4: Functions
-Day 5: Arrays,Slices
-Day 6: Maps
-Day 7: Structs and Interfaces
-Day 8: Pointers and Errors
-// Day 9: Go Routines and Channels
-Day 10: Web Development with GO
-Day 11: RestAPI -> gin and mux
-Day 12: just some more go routines and channels (TESTING IN GO)
-Day 13: encoding/json (marshal and unmarshal)
+DAY 1: Hello World</br>
+DAY 2: Variables and Constants</br>
+Day 3: Control Structures</br>
+Day 4: Functions</br>
+Day 5: Arrays,Slices</br>
+Day 6: Maps</br>
+Day 7: Structs and Interfaces</br>
+Day 8: Pointers and Errors</br>
+// Day 9: Go Routines and Channels</br>
+Day 10: Web Development with GO</br>
+Day 11: RestAPI -> gin and mux</br>
+Day 12: just some more go routines and channels (TESTING IN GO)</br>
+Day 13: encoding/json (marshal and unmarshal)</br>
 

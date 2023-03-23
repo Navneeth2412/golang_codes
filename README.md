@@ -16,4 +16,7 @@ Day 10: Web Development with GO</br>
 Day 11: RestAPI -> gin and mux</br>
 Day 12: just some more go routines and channels (TESTING IN GO)</br>
 Day 13: encoding/json (marshal and unmarshal)</br>
+Day 14: gin framework</br>
+Day 15: time func</br>
 
+PROJECT: Student Marks Processing (rest api, mysql)
